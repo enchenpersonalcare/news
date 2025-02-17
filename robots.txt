@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap: https://icityfood.github.io/news/sitemap.xml
+Sitemap: https://enchenpersonalcare.github.io/news/sitemap.xml
